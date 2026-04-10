@@ -1,12 +1,10 @@
-import './App.css'
+import '../App.css'
 
-function Dashboard() {
+export default function Dashboard() {
 
     return (
         <>
-
         </>
     )
 }
 
-export default Dashboard
